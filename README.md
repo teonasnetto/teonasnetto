@@ -1,20 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**teonasnetto/teonasnetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Languages
+ - I have experience using Java for creation API and access control, Angular , SQL and data modeling for creation of databases with database diagram, Dcoker, VPS, Python for development of Robotic Process Automation (RPA) using selenium, also working with PHP, Javascript for developing web applications/sites.
 
-Here are some ideas to get you started:
+### Specialties
+- Java, Springboot, Microservices, Angular, Python, PHP, Javascript, CSS, HTML, Java, SQL, Data Analisys, IoT, Web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="45" alt="javascript" src="assets/java.png"></code>
+<code><img height="45" alt="javascript" src="assets/angular.png"></code>
+<code><img height="35" alt="javascript" src="assets/springboot.png"></code>
+<code><img height="38" alt="javascript" src="assets/mongo.png"></code>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=teonasnetto&show_icons=true&&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teonasnetto&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/teonasnetto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=teonasnetto&show_icons=true&count_private=true&theme=radical" alt="Anurag's github stats" /></a> | <a href="https://github.com/teonasnetto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teonasnetto&layout=compact&theme=radical" /></a>
+|-|-|
+
+***
+
+#### [My portfolio](https://teonasnetto.github.io)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teonasnetto&repo=teonasnetto.github.io&theme=buefy" />
+</a>
