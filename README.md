@@ -18,7 +18,6 @@
 |-|-|
 
 ***
-mongo
 #### [My portfolio](https://teonasnetto.github.io)
 
 <a href="https://github.com/teonasnetto/github-readme-stats">
