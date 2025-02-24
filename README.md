@@ -10,6 +10,10 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+***
+#### [Click here to view my web portfolio](https://teonasnetto.github.io)
+***
+
 ### Programming Languages
  - I have experience using Java for creation API and access control, Angular , SQL and data modeling for creation of databases with database diagram, Dcoker, VPS, Python for development of Robotic Process Automation (RPA) using selenium, also working with PHP, Javascript for developing web applications/sites.
 
@@ -21,9 +25,10 @@
 |-|-|
 
 ***
-#### [My portfolio](https://teonasnetto.github.io)
 
-<a href="https://github.com/teonasnetto/github-readme-stats">
+#### Click the box below to see the code of my portfolio
+
+<a href="https://github.com/teonasnetto/teonasnetto.github.io">
   <img align="center" src="https://github-readme-stats-teonasnettos-projects.vercel.app/api/pin/?username=teonasnetto&repo=teonasnetto.github.io&theme=buefy" />
 </a>
 
