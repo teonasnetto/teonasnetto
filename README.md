@@ -9,7 +9,7 @@
 
 <div align="center">
 
-   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=teonasnetto.id&left_color=grey&right_color=green&left_text=Visitors%20Count&right_text=Profile%20Views)
 
 </div>
 
