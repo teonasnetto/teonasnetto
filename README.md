@@ -66,4 +66,6 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=teonasnetto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div>
+   <img src="https://github-profile-trophy.vercel.app/?username=teonasnetto&theme=onedark"/>
+</div>
